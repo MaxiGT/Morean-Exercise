@@ -1,1 +1,1 @@
-# Morean-Exercise
+# Morean-CasinoChallenge

@@ -1,0 +1,13 @@
+.newQuestionContainer {
+  padding-left: 15px;
+  padding-bottom: 15px;
+  margin-top: 15px;
+}
+
+.btn {
+  border-radius: 25px;
+}
+
+.orderArrow {
+  padding-left: 20px;
+}
